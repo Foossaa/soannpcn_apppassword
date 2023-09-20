@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3Q/U4TSUk8SPk8WpPhE0G5JoYpSQOrzIjH94om1Zs1au+J/ODetqkYi9AxSzxw0NanjBlpqIwLX93sw2K4dFhw==",
+  "dgSpecHash": "0KZuve9R07sQ3jJuGWA2gOIKVtyNhoZWZ+Jv2OaZs+cp9+oof9LnySqrI4gLzHMY0bDAn+4D6sAGqyIlOqp+2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SLAB91\\Documents\\C#\\soannpcn_apppassword\\soannpcn_apppassword\\soannpcn_apppassword.csproj",
+  "projectFilePath": "C:\\Users\\SLAB95\\Source\\Repos\\soannpcn_apppassword\\soannpcn_apppassword\\soannpcn_apppassword.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\SLAB91\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\SLAB91\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\SLAB91\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\SLAB95\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\SLAB95\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\SLAB95\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
   ],
   "logs": []
 }
